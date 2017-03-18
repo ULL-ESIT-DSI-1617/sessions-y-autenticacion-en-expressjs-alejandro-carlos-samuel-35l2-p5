@@ -21,6 +21,10 @@
   "homepage": "https://github.com/Cosaca/sessions-y-autenticacion-en-expressjs-alejandro-carlos-samuel-35l2-p5#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "express": "^4.15.2"
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1"
   }
 }
