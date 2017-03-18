@@ -1,0 +1,25 @@
+{
+  "name": "sessions-y-autenticacion-en-expressjs-alejandro-carlos-samuel-35l2-p5",
+  "version": "1.0.0",
+  "description": "* Cree un servidor que use para proveer autenticación a los HTML generados a partir de un libro de prueba. * Encripte los passwords en un fichero users.json (puede usar bcrypt-nodejs) en el que se guardan las parejas usuario: password. * Puede escribir un programa auxiliar que le genere el fichero de claves users.json. * Use un formulario form para obtener el usuario y la clave. * Use vistas en ejs o pug para el programa. * Deberá tener rutas y vistas para logout y para cambiar la password. * Despliegue la aplicación en Heroku y en la máquina virtual del iaas.",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosaca/sessions-y-autenticacion-en-expressjs-alejandro-carlos-samuel-35l2-p5.git"
+  },
+  "author": "Alejandro Arzola Garcia, Carlos de Armas Hernandez, Samuel Valcarcel Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosaca/sessions-y-autenticacion-en-expressjs-alejandro-carlos-samuel-35l2-p5/issues"
+  },
+  "homepage": "https://github.com/Cosaca/sessions-y-autenticacion-en-expressjs-alejandro-carlos-samuel-35l2-p5#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
