@@ -1,12 +1,12 @@
 # Sessions y autenticación en ExpressJS
 
-* Cree un servidor que use para proveer autenticación a los HTML generados a partir de un libro de prueba.
-* Encripte los passwords en un fichero users.json (puede usar bcrypt-nodejs) en el que se guardan las parejas usuario: password.
-* Puede escribir un programa auxiliar que le genere el fichero de claves users.json.
-* Use un formulario form para obtener el usuario y la clave.
-* Use vistas en ejs o pug para el programa.
-* Deberá tener rutas y vistas para logout y para cambiar la password.
-* Despliegue la aplicación en Heroku y en la máquina virtual del iaas.
+1. Cree un servidor que use para proveer autenticación a los HTML generados a partir de un libro de prueba.
+2. Encripte los passwords en un fichero users.json (puede usar bcrypt-nodejs) en el que se guardan las parejas usuario: password.
+3. Puede escribir un programa auxiliar que le genere el fichero de claves users.json.
+4. Use un formulario form para obtener el usuario y la clave.
+5. Use vistas en ejs o pug para el programa.
+6. Deberá tener rutas y vistas para logout y para cambiar la password.
+7. Despliegue la aplicación en Heroku y en la máquina virtual del iaas.
 
 ## Miembros del equipo
 
@@ -20,21 +20,20 @@ https://campusvirtual.ull.es/1617/course/view.php?id=1136
 
 ## URL de la descripción de la práctica:
 
-https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicalearningcookies.html
+https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicasessions.html
 
-## GitHub pages:
-
-TODO
-
-## GitBook:
-
-TODO
 
 ## Despliegue en [iaas.ull.es](iaas.ull.es):
 
-* [Máquina iaas Alejandro](http://10.6.128.77:8084/)
-* [Máquina iaas Carlos](http://10.6.129.242:8090/)
-* [Máquina iaas Samuel](http://10.6.128.137:8084/)
+* [Máquina iaas Alejandro](http://10.6.128.77:8085/)
+* [Máquina iaas Carlos](http://10.6.129.242:8085/)
+* [Máquina iaas Samuel](http://10.6.128.137:8085/)
+
+## Despliegue en [Heroku](https://dashboard.heroku.com/login)
+
+* [Heroku Alejandro]()
+* [Heroku Carlos]()
+* [Heroku Samuel]()
 
 ## URL del repositorio git:
 
